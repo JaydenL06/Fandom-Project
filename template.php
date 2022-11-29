@@ -28,7 +28,7 @@ echo $siteName;?>  </h1>
 
   <div class="row" id="content"><!--     START:: rowCon -->
     <div class="col m-2"><!--     START:: ColCon -->
-      Column Content
+  Updated when templatev2
     </div><!--     END:: ColCon -->
   </div> <!--     END:: rowCon -->
     
