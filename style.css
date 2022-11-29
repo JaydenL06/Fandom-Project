@@ -1,0 +1,22 @@
+body{
+  background-color:grey;
+}
+
+#top{
+  background-color:#0593e6;
+}
+#content{
+  background-color:yellow;
+}
+#bottom{
+  background-color:#0593e6;
+}
+h1{
+  Background-color: yellow;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  color: lightgoldenrodyellow;
+}
